@@ -1,3 +1,5 @@
+## Courses API
+
 ## Clone the repository:
 
    ```bash
